@@ -13,5 +13,3 @@ def helloworld
 end
 
 helloworld
-
-helloworld
