@@ -11,3 +11,7 @@ def helloworld
   puts phrase
   puts phrase
 end
+
+helloworld
+
+helloworld
